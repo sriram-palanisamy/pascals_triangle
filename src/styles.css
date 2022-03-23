@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+}
+.col{
+    color: #ff3781;
+    padding: 5px;
+    background-color: antiquewhite;
+    margin: 3px;
+    border: 1px solid;
+}
+    
